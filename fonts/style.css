@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'youshe';
+    src: url('优设标题黑.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'huakang_w7';
+    src: url('44华康新综艺W7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'huakang_w9';
+    src: url('45华康新综艺体W9.ttc') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'zhanku_kuaile';
+    src: url('站酷快乐体2016修订版.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
